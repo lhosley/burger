@@ -1,0 +1,30 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #f18682;
+  display: table;
+  
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+  display: table;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body {
+  background-color: blanchedalmond;
+  background-image:  url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBkoZ9ukCwGpJs_4ty42BIuVmS3ifg6Ih7w2DA1lKky5y5XsUnQ);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
